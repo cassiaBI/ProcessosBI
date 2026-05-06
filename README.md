@@ -1,0 +1,1 @@
+-- SHP2SVG é um código em que, após desenvolver os mapas dentro do QGis e deixá-los em shp, identa os ícones do SVG automaticamente. 
